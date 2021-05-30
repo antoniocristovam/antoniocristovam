@@ -4,7 +4,7 @@
 <div>
 <div style="display: inline_block"><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?antoniocristovam=SEUNOME&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocristovam&show_icons=true&theme=radical)
 
   <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
