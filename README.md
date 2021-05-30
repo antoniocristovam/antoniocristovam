@@ -15,5 +15,3 @@
   <img align="center" alt="antonio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-  
-  <img align="center" alt="antonio-CSS" src="http://fc02.deviantart.net/fs71/f/2014/229/d/c/tumblr_mjgv8keumg1s87n79o1_400_by_pokemon_gamer_kay-d7vjdnv.gif">
