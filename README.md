@@ -6,10 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocristovam&theme=gotham&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoniocristovam)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <img align="center" alt="antonio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="antonio-Js" height="30" width="40" src="https://i.imgur.com/hw77jCx.png">
 
   <img align="center" alt="antonio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 
