@@ -7,7 +7,7 @@
   
   # 
 
-  ### Linguagens de programação que estou aprendendo:
+  ### <3 
   
 <img align="center" alt="antonio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="antonio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
