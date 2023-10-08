@@ -7,6 +7,6 @@
 [![Gmail Badge](https://img.shields.io/badge/antoniocristovam%40outlook.com.br-blue?logo=microsoft&cacheSeconds=dark&link=antoniocristovam%40outlook.com.br
 )](mailto:diego.schell.f@gmail.com)
 
-Enthusiast of the best web & mobile development technologies.
+Passionate about the best web and mobile development technologies.
 
 Currently, I work with innovative technologies such as React, TypeScript and React Native. I am passionate about software development and motivated by challenges, always seeking to create efficient and impactful solutions.
